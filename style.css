@@ -31,10 +31,12 @@ header{
  main{
     background-color: var(--white);
     padding: 2rem;
+    border-radius: 1.5625rem 1.6525rem 0 0;
  }
 
  .conta,
- .gorjeta {
+ .gorjeta,
+ .pessoas {
     margin-bottom: 2rem;
  }
 
